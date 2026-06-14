@@ -32,7 +32,7 @@ The database contains the following tables:
 
 ### Entity Relationship Diagram (ERD)
 
-![ERD](screenshots/Database_ERD.png)
+![ERD](screenshot/Database_ERD.png)
 
 ---
 
