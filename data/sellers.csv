@@ -1,0 +1,501 @@
+seller_id,seller_name,brand_type
+1,"Anderson, Cohen and Nichols",Books
+2,"Hunt, Gill and Nelson",Electronics
+3,"Norman, Odom and Bowman",Electronics
+4,Johnson and Sons,Books
+5,"Carroll, Russell and Smith",Home
+6,Welch-Richardson,Fashion
+7,Johnson Group,Fashion
+8,"Rodriguez, Kelley and Rose",Fashion
+9,Butler-Charles,Books
+10,Sheppard-Roberts,Electronics
+11,May LLC,Books
+12,Bender LLC,Books
+13,"Bullock, Boyd and Gates",Beauty
+14,Adams-Gray,Electronics
+15,Chase-Bowers,Beauty
+16,Francis LLC,Sports
+17,"Branch, Davis and Decker",Electronics
+18,Guzman Inc,Electronics
+19,Jacobs LLC,Electronics
+20,Campbell LLC,Fashion
+21,Salazar Ltd,Fashion
+22,Coleman Ltd,Beauty
+23,Shepherd-Garrett,Beauty
+24,"Brown, Ortiz and Turner",Electronics
+25,Rodriguez-Campbell,Beauty
+26,"Leblanc, Miller and Mann",Fashion
+27,"Livingston, Rodgers and Campbell",Books
+28,Smith Ltd,Books
+29,"Oconnor, Long and Walker",Books
+30,Lopez-Bailey,Beauty
+31,Bryant-Anderson,Sports
+32,Perez-Robinson,Fashion
+33,Cook Group,Sports
+34,"Delgado, Garcia and Jackson",Beauty
+35,Miller-Gallegos,Home
+36,"Cameron, Turner and Gibbs",Toys
+37,Gray Ltd,Toys
+38,"Trevino, Lee and Flowers",Electronics
+39,Allen and Sons,Toys
+40,White PLC,Toys
+41,Johnson Ltd,Fashion
+42,"Gay, Anderson and Preston",Books
+43,"Shields, Hawkins and Maxwell",Sports
+44,"Wilkinson, Lewis and Harrison",Home
+45,Sampson-Cook,Home
+46,"Bray, Smith and Miller",Fashion
+47,"Leonard, Ramirez and Kelly",Fashion
+48,Haynes-Silva,Toys
+49,Ruiz-Jones,Home
+50,Henderson-Harper,Electronics
+51,Holland Inc,Electronics
+52,Bishop-Barajas,Sports
+53,"Kelly, Macias and Ware",Electronics
+54,"Perez, Hendrix and Stone",Home
+55,"Long, Patrick and Smith",Toys
+56,"Cohen, Gomez and Smith",Home
+57,Clay PLC,Beauty
+58,Marshall-Le,Home
+59,Simpson Ltd,Toys
+60,"Thompson, Sloan and Scott",Electronics
+61,Francis-Ramirez,Books
+62,Holden Inc,Sports
+63,Smith Group,Beauty
+64,Wilson Group,Electronics
+65,Eaton-Cohen,Sports
+66,Marshall Ltd,Electronics
+67,"Obrien, Walker and Anderson",Beauty
+68,"Martin, Ingram and Brown",Home
+69,Simmons Group,Toys
+70,"Mccoy, Ellison and Lewis",Books
+71,"Taylor, Davila and Lutz",Beauty
+72,"Mcdonald, Gonzales and Frye",Toys
+73,"Ellis, Simmons and Freeman",Home
+74,Richardson LLC,Beauty
+75,Garcia-Hamilton,Fashion
+76,"Alvarez, Strickland and Smith",Books
+77,"Knapp, Lopez and Reyes",Electronics
+78,Harris and Sons,Electronics
+79,Young-Boone,Books
+80,Lawrence Inc,Fashion
+81,Myers Group,Toys
+82,Pearson-Morgan,Home
+83,Rogers-Rasmussen,Electronics
+84,"Williams, Mcintyre and Morgan",Toys
+85,Marshall-Payne,Fashion
+86,Green-Caldwell,Toys
+87,"Foster, Pierce and Brown",Electronics
+88,"Harris, Potts and Powell",Sports
+89,Kane PLC,Home
+90,Lee-Larson,Sports
+91,Mayo Ltd,Books
+92,Pace PLC,Toys
+93,"Sandoval, Casey and Jones",Home
+94,Williams-Sullivan,Fashion
+95,Monroe Ltd,Home
+96,Wright and Sons,Home
+97,"Campbell, Cook and Holt",Fashion
+98,Carlson-Vega,Books
+99,"Potter, James and Harris",Home
+100,"Ray, Ingram and Reynolds",Books
+101,White-Brown,Books
+102,Blanchard-Lutz,Books
+103,"Obrien, Bauer and Mcneil",Electronics
+104,"Foster, Stephens and Becker",Beauty
+105,Campos-Bell,Books
+106,"Smith, Miller and Pratt",Fashion
+107,Aguilar LLC,Beauty
+108,Murphy LLC,Books
+109,"Gould, Swanson and Fowler",Fashion
+110,Shelton-Fisher,Fashion
+111,Case and Sons,Sports
+112,Moore Inc,Sports
+113,Pope-Clark,Home
+114,Armstrong Inc,Books
+115,Burnett-Wilson,Books
+116,Phillips Inc,Beauty
+117,Daniel Ltd,Fashion
+118,Scott-Crawford,Books
+119,Hunter-Smith,Home
+120,"Poole, Chen and Baldwin",Toys
+121,"Jimenez, Roberts and Murphy",Toys
+122,Ball Ltd,Toys
+123,"Roman, Miller and Waters",Electronics
+124,"Jennings, Scott and Lawson",Fashion
+125,Miller and Sons,Toys
+126,Peck-Miles,Electronics
+127,"Fisher, Smith and Martin",Toys
+128,Young Group,Home
+129,"Blanchard, Clark and Davis",Sports
+130,Larson Inc,Home
+131,Gutierrez LLC,Electronics
+132,Rosario Inc,Fashion
+133,Arnold and Sons,Beauty
+134,Baxter-Cherry,Books
+135,"Fitzgerald, Durham and Guerrero",Home
+136,Hansen Ltd,Fashion
+137,"Mueller, Peterson and Frederick",Books
+138,"Brown, Erickson and Vasquez",Sports
+139,"Levy, Marsh and Patterson",Sports
+140,Kelley-Torres,Books
+141,"Thompson, Burch and Wilcox",Sports
+142,Weber-Thompson,Fashion
+143,"Wang, Davis and Price",Home
+144,White-Parker,Fashion
+145,"Smith, Vazquez and Anderson",Fashion
+146,Ramirez Group,Books
+147,"Phelps, Higgins and Smith",Beauty
+148,Hale-Jones,Beauty
+149,"Alvarez, Sosa and Perez",Home
+150,Burke Ltd,Books
+151,Bishop Inc,Beauty
+152,"Medina, Chavez and Rojas",Sports
+153,Miranda-Clayton,Beauty
+154,"Perez, Johnson and Stone",Sports
+155,Johnson-Garcia,Home
+156,King-Gibson,Fashion
+157,"Green, Jackson and Bruce",Fashion
+158,Richards-Rhodes,Beauty
+159,Jimenez Group,Sports
+160,Vaughan-Lewis,Electronics
+161,Taylor-Ellison,Toys
+162,Hernandez-Hill,Electronics
+163,Lambert-Kramer,Toys
+164,"Mason, Green and Garcia",Electronics
+165,Vasquez-Mcbride,Fashion
+166,Thomas-Lee,Books
+167,"Frazier, Sanders and Smith",Fashion
+168,Lee-Allen,Toys
+169,Evans PLC,Books
+170,Torres-Bell,Sports
+171,Silva and Sons,Beauty
+172,Zavala-Smith,Electronics
+173,Vazquez PLC,Sports
+174,"Jones, Phillips and Stephenson",Sports
+175,West-Burton,Beauty
+176,Roman and Sons,Sports
+177,"Cordova, Melton and Garner",Beauty
+178,Anderson LLC,Home
+179,Curtis-Stafford,Beauty
+180,Harvey-Evans,Toys
+181,"Nichols, Jackson and Young",Electronics
+182,"Cox, Scott and Waller",Books
+183,Buchanan and Sons,Books
+184,"Smith, Mitchell and Whitney",Electronics
+185,"Sutton, Barton and Jones",Books
+186,"Baldwin, Ross and Mitchell",Beauty
+187,Becker PLC,Toys
+188,Abbott-Carlson,Home
+189,"Jones, Watson and Bush",Toys
+190,"Brown, Brown and Mays",Books
+191,Bruce Ltd,Home
+192,"Williams, Rose and Diaz",Electronics
+193,Nelson and Sons,Home
+194,"Coleman, King and Thompson",Sports
+195,Fox Inc,Fashion
+196,"Schultz, Scott and Young",Sports
+197,Mckinney Group,Electronics
+198,Williams-Marsh,Books
+199,Leonard LLC,Books
+200,Olson Ltd,Home
+201,Collier and Sons,Beauty
+202,"Burke, Hood and Lambert",Toys
+203,Knight-Tate,Fashion
+204,Butler Ltd,Beauty
+205,"Roberts, Garcia and Hammond",Electronics
+206,Richard Group,Toys
+207,"Lewis, Kent and Guerrero",Books
+208,Bishop-Allison,Home
+209,Gordon-Lee,Toys
+210,"Ford, Tucker and Williams",Books
+211,Morgan-Schneider,Beauty
+212,Santiago Inc,Beauty
+213,White-Bryant,Fashion
+214,Wise LLC,Fashion
+215,"Jimenez, Briggs and Barnett",Home
+216,Pierce Ltd,Toys
+217,Garcia-Williams,Fashion
+218,Burns-Brady,Beauty
+219,"Vega, Herrera and Mathews",Toys
+220,Bauer-Snyder,Beauty
+221,Martinez Group,Electronics
+222,Johnson-Arias,Beauty
+223,Logan-Burns,Home
+224,Jackson Group,Sports
+225,Kelly-Holland,Electronics
+226,Thomas Ltd,Electronics
+227,Clark PLC,Home
+228,Woods Inc,Toys
+229,"Schmidt, Bowman and York",Toys
+230,"Torres, Soto and Johnson",Home
+231,"Mcmillan, Moore and Martinez",Fashion
+232,"Weiss, Coleman and Shannon",Electronics
+233,Swanson-Cox,Fashion
+234,Murphy-Donovan,Beauty
+235,Dominguez-Stewart,Electronics
+236,Gonzalez PLC,Electronics
+237,"Juarez, Wood and Herring",Books
+238,Olson-Walker,Sports
+239,"Howell, Ramirez and Pearson",Toys
+240,"Stanton, Walker and Smith",Electronics
+241,Jones-Thornton,Toys
+242,Medina-Jackson,Beauty
+243,"Hayes, Mcdonald and Brandt",Toys
+244,Mendoza LLC,Fashion
+245,"Jackson, Williams and Marquez",Fashion
+246,"Thompson, Wallace and Salas",Books
+247,Walsh Ltd,Sports
+248,"Hernandez, Koch and Webster",Beauty
+249,Thompson-Berger,Fashion
+250,Jones-Sanchez,Home
+251,Ross Ltd,Beauty
+252,Frazier Inc,Toys
+253,Adams Group,Beauty
+254,Carey-Jimenez,Sports
+255,Ramirez LLC,Fashion
+256,Stevens and Sons,Beauty
+257,Jimenez-Hensley,Toys
+258,"Morrow, Smith and Owens",Books
+259,Norris-Gordon,Books
+260,Walker-Allen,Fashion
+261,"Ramos, Hicks and Martin",Books
+262,Owens Group,Home
+263,"Valentine, Jones and Wilson",Sports
+264,Jackson Ltd,Books
+265,"Harrell, Kelly and Frank",Books
+266,Morton LLC,Home
+267,Duran-Green,Sports
+268,Caldwell-Warren,Beauty
+269,Garcia-Mcmillan,Sports
+270,Peters-Carter,Electronics
+271,Grant PLC,Fashion
+272,Davis-Rodriguez,Fashion
+273,"Smith, Santos and Foster",Electronics
+274,Morgan Group,Home
+275,Stokes Group,Electronics
+276,Webb Group,Beauty
+277,Ray and Sons,Beauty
+278,Davenport Inc,Fashion
+279,Garcia-Montgomery,Beauty
+280,Novak Group,Fashion
+281,Rocha Inc,Electronics
+282,Mathews Group,Electronics
+283,"Bautista, Clark and Butler",Books
+284,Calderon PLC,Books
+285,"Brown, Gonzalez and Wilson",Electronics
+286,Espinoza-Wright,Fashion
+287,Ellison PLC,Electronics
+288,Bell-Ball,Electronics
+289,Doyle-Martin,Toys
+290,Walker Ltd,Home
+291,Hammond Group,Electronics
+292,"Bennett, Padilla and Clarke",Beauty
+293,Alexander Group,Fashion
+294,"Garrett, Johnson and Dominguez",Home
+295,Graham-Zimmerman,Books
+296,Gonzales PLC,Sports
+297,"Murphy, Richardson and Rogers",Fashion
+298,"Boyd, Gomez and Wright",Beauty
+299,Johnson and Sons,Fashion
+300,Sanders and Sons,Books
+301,"Mckinney, Green and Sweeney",Beauty
+302,"Daniels, Porter and Jacobson",Beauty
+303,"Williams, House and Lopez",Sports
+304,"Trujillo, Lucas and Whitaker",Fashion
+305,Wiggins-Campbell,Toys
+306,Hancock and Sons,Sports
+307,"Ingram, White and Hernandez",Toys
+308,Everett-Torres,Sports
+309,"Allison, Jenkins and Sellers",Fashion
+310,Holloway and Sons,Electronics
+311,Mitchell Group,Electronics
+312,Jordan-Jackson,Books
+313,"Skinner, Allen and Lopez",Sports
+314,Collier Ltd,Home
+315,Marshall-Ho,Sports
+316,Lowery LLC,Sports
+317,Davis-Ward,Sports
+318,Randall-Garcia,Toys
+319,Moore LLC,Books
+320,"Vargas, Hall and Mann",Electronics
+321,"Browning, Hernandez and Shaffer",Books
+322,Kane Ltd,Books
+323,Meyers-Lambert,Books
+324,Valdez-Lyons,Electronics
+325,Walker-Valdez,Electronics
+326,Santos-Davis,Sports
+327,Novak LLC,Books
+328,Vega-Stone,Home
+329,"Gamble, Franklin and Kelley",Toys
+330,Hopkins Ltd,Toys
+331,"Evans, Jones and Heath",Electronics
+332,Tran-Lee,Fashion
+333,"Wise, Reynolds and Calderon",Fashion
+334,Grant-Hernandez,Fashion
+335,"Schneider, Vargas and Ho",Beauty
+336,Ellis-Stone,Sports
+337,Lee Ltd,Fashion
+338,Hall-Chung,Sports
+339,Collins-Campbell,Fashion
+340,"Holmes, Robertson and Martin",Home
+341,"Gonzales, Snyder and Miller",Sports
+342,"Reynolds, Harper and Miller",Fashion
+343,Smith-Buck,Toys
+344,"Cole, Gay and Thomas",Electronics
+345,Scott Group,Sports
+346,"Frost, Mitchell and Martinez",Toys
+347,Lewis-Glass,Toys
+348,Gonzalez-Jones,Toys
+349,Gomez-Richardson,Beauty
+350,"Mayo, Wilson and Bennett",Electronics
+351,Miller Ltd,Electronics
+352,"Palmer, Wilson and Sullivan",Books
+353,Dyer-Juarez,Beauty
+354,Butler Ltd,Toys
+355,Johnson PLC,Electronics
+356,"Garcia, Jones and Fuller",Electronics
+357,Baker Ltd,Toys
+358,Jenkins-Johnson,Toys
+359,"Adams, Welch and Martinez",Fashion
+360,Walker Ltd,Fashion
+361,Becker Inc,Sports
+362,"Jones, Smith and Black",Sports
+363,"Whitaker, Rogers and Jackson",Sports
+364,"Hernandez, Williams and Gaines",Fashion
+365,Smith Group,Toys
+366,Mathis and Sons,Sports
+367,"Stephens, Phillips and Davis",Electronics
+368,Pennington-George,Fashion
+369,"Miller, Malone and Boyd",Sports
+370,Brown-Powell,Electronics
+371,Hendricks Inc,Sports
+372,Williams Inc,Home
+373,Tucker PLC,Toys
+374,"Richardson, Johnson and Mayer",Toys
+375,"Miller, Lewis and Bray",Sports
+376,Davidson Group,Home
+377,Snyder-Sanders,Sports
+378,"Walters, Green and Williams",Books
+379,Mathis-Holt,Books
+380,"Lopez, Gillespie and Torres",Toys
+381,"Osborn, Galloway and Vance",Beauty
+382,Watson-Brown,Books
+383,Smith-Compton,Books
+384,"Johnson, Barton and Johnson",Sports
+385,Johnson LLC,Fashion
+386,Clark and Sons,Fashion
+387,Lopez-Fox,Home
+388,"Golden, Andersen and Lewis",Fashion
+389,Smith-Buckley,Electronics
+390,Anderson-Jackson,Beauty
+391,"Johnson, Colon and Gibson",Books
+392,Gordon-Grant,Beauty
+393,Goodwin-Garcia,Electronics
+394,Nelson-Berry,Books
+395,"Floyd, Newman and Williams",Home
+396,Chandler Group,Electronics
+397,Wagner-Moore,Electronics
+398,Adams Ltd,Beauty
+399,Miller Inc,Sports
+400,Brown-Lyons,Beauty
+401,Gonzalez-Parker,Toys
+402,Little-Huerta,Beauty
+403,Dickson LLC,Fashion
+404,"Cook, Clark and Woods",Electronics
+405,"Raymond, Waters and Larsen",Beauty
+406,Dorsey-Reyes,Electronics
+407,Jenkins-Adams,Toys
+408,"Madden, Torres and King",Fashion
+409,Durham Ltd,Electronics
+410,Pratt-Reyes,Beauty
+411,Cooper Inc,Electronics
+412,Copeland Group,Books
+413,"Campos, Perry and King",Toys
+414,"Cook, Guerrero and Washington",Fashion
+415,Hamilton-Underwood,Sports
+416,Hughes Group,Electronics
+417,Bryant-Mays,Beauty
+418,"Harris, Martinez and Sanchez",Fashion
+419,Lee-Santana,Beauty
+420,Nielsen and Sons,Beauty
+421,Graves PLC,Electronics
+422,Lucero and Sons,Beauty
+423,Serrano-Jimenez,Electronics
+424,"Brooks, Hernandez and Jones",Sports
+425,Woods Inc,Books
+426,Rodriguez-Davis,Beauty
+427,"Jacobson, Li and Hancock",Beauty
+428,"Barker, Clark and Thornton",Beauty
+429,Berry-Hernandez,Home
+430,"Rodriguez, Smith and Curry",Home
+431,Mccoy Ltd,Fashion
+432,Clark-Robles,Books
+433,Bowen LLC,Books
+434,Smith-Fitzgerald,Home
+435,Friedman-Hobbs,Fashion
+436,Snyder Ltd,Home
+437,Farrell-Burns,Sports
+438,Lindsey-Hill,Fashion
+439,Montgomery Group,Books
+440,Curtis-Tran,Books
+441,"Curtis, Smith and Mccarty",Home
+442,Goodwin-Kelly,Sports
+443,"Mendez, Duke and Armstrong",Home
+444,Davidson PLC,Toys
+445,"Kelley, Hill and Sanders",Electronics
+446,Valencia Inc,Electronics
+447,"Patrick, Lee and Campbell",Sports
+448,Bradley Inc,Beauty
+449,"Brown, Lewis and Turner",Beauty
+450,Harrington LLC,Electronics
+451,"Briggs, Cortez and Jacobs",Electronics
+452,"Turner, Wilson and Gomez",Beauty
+453,Berry PLC,Fashion
+454,"Santiago, Wu and Bean",Beauty
+455,Graham-Garcia,Home
+456,"Perez, Wilson and Rose",Fashion
+457,Stanley Ltd,Home
+458,Arellano-Mcintyre,Electronics
+459,Rush Ltd,Fashion
+460,"Harris, Alexander and Contreras",Home
+461,"Fox, Henry and Richards",Home
+462,Ramos and Sons,Fashion
+463,Carroll and Sons,Sports
+464,Wilson Inc,Toys
+465,Young-Haley,Beauty
+466,Cox Ltd,Books
+467,"Brown, Barnett and Rojas",Home
+468,Gray-Anderson,Beauty
+469,"Davis, Martinez and Hodge",Toys
+470,Thompson and Sons,Books
+471,Smith Ltd,Beauty
+472,Wright-Moody,Electronics
+473,Martin-Ballard,Books
+474,Bell-Elliott,Toys
+475,"Hernandez, Hampton and Ortiz",Beauty
+476,"Pace, Clay and Beard",Home
+477,Bentley-Craig,Books
+478,Ruiz LLC,Electronics
+479,"Ellis, Holmes and Lin",Fashion
+480,Ward-Gilbert,Home
+481,Roberts-Allen,Electronics
+482,Vazquez Ltd,Electronics
+483,"Warner, Cherry and Bolton",Books
+484,Francis Group,Beauty
+485,Cross-Acosta,Fashion
+486,Alvarez and Sons,Home
+487,Myers Group,Home
+488,Bryant-Jackson,Beauty
+489,Mack PLC,Fashion
+490,Hampton-Charles,Books
+491,"Bullock, Griffin and Foster",Home
+492,Stephenson-Rogers,Fashion
+493,"Johnson, Farmer and Smith",Books
+494,Martin-Olsen,Books
+495,Clark-Maxwell,Toys
+496,"Choi, Spencer and Lin",Home
+497,Olson Inc,Beauty
+498,Klein-Anthony,Sports
+499,Kirk-Gross,Home
+500,Johnson Group,Toys
