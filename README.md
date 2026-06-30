@@ -179,7 +179,7 @@ The project includes three interactive Power BI dashboards designed for business
 
 ### Dashboard Preview
 
-![Product Intelligence Dashboard](screenshots/dashboard_2_product_intelligence.png)
+![Product Intelligence Dashboard](screenshot/dashboard_2_product_intelligence.png)
 
 ---
 
@@ -201,7 +201,7 @@ The project includes three interactive Power BI dashboards designed for business
 
 ### Dashboard Preview
 
-![Customer Insights Dashboard](screenshots/dashboard_3_customer_insights.png)
+![Customer Insights Dashboard](screenshot/dashboard_3_customer_insights.png)
 
 ---
 
