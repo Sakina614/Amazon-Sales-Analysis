@@ -97,83 +97,186 @@ LEFT JOIN products p
 ON i.product_id=p.product_id
 WHERE p.product_id IS NULL;
 ```
+```
 
 ---
 
-## Business Analysis Questions
+## Business Analysis Performed
 
-### 1. Top Selling Products
+### Sales Performance Analysis
 
-Identify products generating the highest revenue.
+- Total Revenue
+- Total Profit
+- Profit Margin
+- Average Order Value
+- Monthly Revenue Trend
 
-### 2. Revenue by Category
+### Product Analysis
 
-Analyze category-wise revenue contribution.
+- Top Selling Products
+- Revenue by Category
+- Product Profitability Analysis
+- Category Contribution Analysis
 
-### 3. Monthly Revenue Trend
+### Customer Analysis
 
-Track sales performance over time.
+- Top Customers
+- Revenue by State
+- Customer Distribution Analysis
+- Repeat Customer Analysis
 
-### 4. Top Customers
+### Inventory Analysis
 
-Identify customers contributing the most revenue.
-
-### 5. Average Order Value
-
-Calculate average customer spending per order.
-
-### 6. Seller Performance
-
-Evaluate seller revenue and order volume.
-
-### 7. Inventory Analysis
-
-Identify low-stock products requiring replenishment.
+- Low Stock Products
+- Inventory Replenishment Requirements
 
 ---
 
-## Sample Insights
+# Power BI Dashboards
 
-* Electronics generated the highest revenue.
-* Average Order Value exceeded $X.
-* Top 10 customers contributed Y% of total revenue.
-* Category Z showed the highest growth.
-* X products require inventory replenishment.
+The project includes three interactive Power BI dashboards designed for business stakeholders.
+
+---
+
+## Dashboard 1: Executive Summary
+
+### Key KPIs
+
+- Total Revenue
+- Total Profit
+- Profit Margin %
+- Total Orders
+- Total Customers
+- Average Order Value
+
+### Visualizations
+
+- Revenue Trend Analysis
+- Revenue by Category
+- Revenue vs Profit by Category
+- Top Revenue-Generating Categories
+
+### Dashboard Preview
+
+![Executive Summary Dashboard](screenshot/dashboard_1_executive_summary.png)
+
+---
+
+## Dashboard 2: Product Intelligence
+
+### Key KPIs
+
+- Total Products
+- Average Product Revenue
+- Highest Revenue Category
+- Most Sold Product
+- Highest Profit Product
+
+### Visualizations
+
+- Top Products by Revenue
+- Top Products by Quantity Sold
+- Category Revenue Contribution
+- Revenue vs Profit by Category
+
+### Dashboard Preview
+
+![Product Intelligence Dashboard](screenshots/dashboard_2_product_intelligence.png)
+
+---
+
+## Dashboard 3: Customer Insights
+
+### Key KPIs
+
+- Total Customers
+- Revenue per Customer
+- Top Customer
+- Repeat Customer Rate
+
+### Visualizations
+
+- Top Customers by Revenue
+- Revenue by State
+- Customer Distribution by State
+- Geographic Revenue Analysis
+
+### Dashboard Preview
+
+![Customer Insights Dashboard](screenshots/dashboard_3_customer_insights.png)
+
+---
+
+## Key Insights
+
+### Revenue Insights
+
+- Identified top-performing product categories driving overall sales.
+- Analyzed monthly revenue trends to detect growth patterns and seasonality.
+- Measured profitability across categories and products.
+
+### Product Insights
+
+- Determined highest revenue-generating products.
+- Identified categories with the strongest profit margins.
+- Evaluated category contribution to overall business performance.
+
+### Customer Insights
+
+- Identified high-value customers contributing the largest share of revenue.
+- Analyzed customer distribution across states.
+- Measured customer spending behavior and average customer value.
+
+### Inventory Insights
+
+- Detected low-stock products requiring replenishment.
+- Improved visibility into inventory management requirements.
 
 ---
 
 ## Repository Structure
 
+```text
 amazon-sales-analysis/
-
+│
 ├── data/
-
+│
 ├── sql/
-
-│ ├── 01_create_tables.sql
-
-│ ├── 02_data_validation.sql
-
-│ └── 03_business_queries.sql
-
+│   ├── 01_create_tables.sql
+│   ├── 02_data_validation.sql
+│   └── 03_business_queries.sql
+│
+├── powerbi/
+│   └── Amazon_Sales_Analytics.pbix
+│
 ├── screenshots/
-
-├── README.md
-
-└── generate_dataset.py
+│   ├── erd.png
+│   ├── dashboard_1_executive_summary.png
+│   ├── dashboard_2_product_intelligence.png
+│   └── dashboard_3_customer_insights.png
+│
+├── generate_dataset.py
+│
+└── README.md
+```
 
 ---
 
-## Future Improvements
+## Future Enhancements
 
-* Power BI dashboard integration
-* Star schema implementation
-* ETL pipeline automation
-* Customer segmentation analysis
-* Forecasting and predictive analytics
+- Automated ETL Pipeline
+- PostgreSQL Views & Materialized Views
+- Customer Segmentation (RFM Analysis)
+- Sales Forecasting
+- Power BI Service Deployment
+- Incremental Refresh
+- Cloud Data Warehouse Integration
+- ML-Based Demand Forecasting
 
 ---
 
 ## Author
 
-Sakina Rizvi
+**Sakina Rizvi**
+
+Data Analytics | SQL | PostgreSQL | Power BI | Python
